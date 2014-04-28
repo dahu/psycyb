@@ -1,0 +1,11 @@
+Psycho Cybernetics
+------------------
+
+(c) 1960 Dr. Maxwell Maltz
+
+This is a small collection of selected chapters from __Psycho
+Cybernetics__ in http://asciidoc.org[Asciidoc]
+http://asciidoc.org/slidy.html[Slidy] format.
+
+I am mainly using these as educational and discussion material for
+university level EFL students.
